@@ -2,6 +2,7 @@
 
 <p>
   <img alt="Android Studio" src="https://miro.medium.com/max/800/1*zzTEyTwyy7jXibtqVWg84Q.gif" width="30%" />
+  <img alt="Android Studio" src="https://1.bp.blogspot.com/-OfcV0aooHZI/X5hw1gFt1QI/AAAAAAAAAFI/-1n4A1X6BTQkptJCAvNlcI6_23cgFukwQCNcBGAsYHQ/s400/GFY.gif"width="30%" />
 </p>
 
 
