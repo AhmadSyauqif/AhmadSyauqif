@@ -28,7 +28,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br>
 ### Connect with me:
 <a href="https://sociabuzz.com/ahmadsyauqi_/donate" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32px" alt="Sociabuzz"></a>
-<a href="https://https://www.instagram.com/sashmennn_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
+<a href="https://www.instagram.com/sashmennn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/ahmad-syauqi-fuadi-6b5a84200/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
 <a href="https://www.youtube.com/channel/UCxXcc7pf8o9iCeGx8A6ZPcw" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height="32px" alt="Youtube"></a>
 
