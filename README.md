@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hey eka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p>
   <img alt="Android Studio" src="https://miro.medium.com/max/800/1*zzTEyTwyy7jXibtqVWg84Q.gif" width="30%" />
